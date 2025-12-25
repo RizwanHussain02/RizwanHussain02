@@ -2,20 +2,14 @@
 
 📊 **Data Analyst | Data Engineer | Big Data & Cloud Professional**
 
-I specialize in transforming complex data into **meaningful insights** and building **scalable, reliable data pipelines** that support data-driven decision-making. With a strong analytical mindset and hands-on experience across the **data analytics and data engineering lifecycle**,I bridge the gap between raw data and business value.
+I transform complex data into **actionable insights** and build **scalable data pipelines** that power data-driven decisions. With hands-on experience across analytics and data engineering, I bridge the gap between **raw data and business value**.
 
-🔹 **Expertise Includes:**  
-- Data Analysis, Modeling, and Visualization  
-- End-to-End ETL/ELT Pipeline Development  
-- Big Data Processing & Distributed Systems  
-- Cloud-Based Data Solutions (Azure & AWS)  
+🔹 **Core Skills:** Data Analytics & Visualization | ETL/ELT Pipelines | Big Data & Distributed Systems | Cloud (Microsoft Azure)
 
-🔹 **Currently Focused On:**  
-- Advanced Data Engineering with **Spark, Kafka, Airflow, and Snowflake**  
-- Cloud-native architectures and automation  
-- Building production-grade, real-world data platforms  
+🔹 **Current Focus:** Apache Spark(PySpark), Kafka, Airflow, Snowflake & Cloud-native data platforms  
 
-📌 I am passionate about **continuous learning**, **clean data architecture**, and delivering **impactful data solutions at scale**.
+📌 Passionate about **clean data architecture**, **continuous learning**, and **building production-ready data solutions**.
+
 
 
 ## 🌐 Socials:
