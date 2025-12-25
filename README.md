@@ -2,7 +2,7 @@
 
 📊 **Data Analyst | Data Engineer | Big Data & Cloud Professional**
 
-I specialize in transforming complex data into **meaningful insights** and building **scalable, reliable data pipelines** that support data-driven decision-making. With a strong analytical mindset and hands-on experience across the **data analytics and data engineering lifecycle**, I bridge the gap between raw data and business value.
+I specialize in transforming complex data into **meaningful insights** and building **scalable, reliable data pipelines** that support data-driven decision-making. With a strong analytical mindset and hands-on experience across the **data analytics and data engineering lifecycle**,I bridge the gap between raw data and business value.
 
 🔹 **Expertise Includes:**  
 - Data Analysis, Modeling, and Visualization  
@@ -27,9 +27,6 @@ I specialize in transforming complex data into **meaningful insights** and build
 ![](https://github-readme-stats.vercel.app/api?username=RizwanHussain377&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=RizwanHussain377&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RizwanHussain377&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RizwanHussain377&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
