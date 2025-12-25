@@ -8,6 +8,13 @@ I transform complex data into **actionable insights** and build **scalable data 
 
 🔹 **Current Focus:** Apache Spark(PySpark), Kafka, Airflow, Snowflake & Cloud-native data platforms  
 
+🧰 **My Skill Set**
+
+**Languages & Querying:** SQL | Python  
+**Databases:** MySQL | PostgreSQL | SQL Server  
+**Analytics & BI:** Power BI | Tableau | Excel | Google Sheets  
+**Big Data & Cloud:** Spark | Kafka | Airflow | Snowflake | Azure | AWS
+
 📌 Passionate about **clean data architecture**, **continuous learning**, and **building production-ready data solutions**.
 
 
