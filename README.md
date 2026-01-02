@@ -25,7 +25,7 @@ With hands-on experience across **data analytics and Azure data engineering**, I
 **Workflow & Dev:** Git, GitHub, Docker
 
 
-## 🌐 Socials:
+## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rizwanhussain-) [![GitHub](https://img.shields.io/badge/GitHub-RizwanHussain02-black?logo=github&logoColor=white)](https://github.com/RizwanHussain02) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rizwanhussain.cs@gmail.com) 
 
 # 💻 Tech Stack:
