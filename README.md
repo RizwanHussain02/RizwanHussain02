@@ -24,10 +24,6 @@ With hands-on experience across **data analytics and Azure data engineering**, I
 **Databases:** MySQL | PostgreSQL | SQL Server  
 **Workflow & Dev:** Git, GitHub, Docker
 
-
-## 🌐 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rizwanhussain-) [![GitHub](https://img.shields.io/badge/GitHub-RizwanHussain02-black?logo=github&logoColor=white)](https://github.com/RizwanHussain02) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rizwanhussain.cs@gmail.com) 
-
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4EABE6?style=for-the-badge&logo=python&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
